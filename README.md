@@ -1,6 +1,6 @@
 # Jenkins_Notes
 
-'''
+```
 sudo apt update
 
 sudo apt install openjdk-17-jre
@@ -15,4 +15,5 @@ sudo apt-get install jenkins
 sudo systemctl start jenkins
 
 cat /var/lib/jenkins/secrets/initialAdminPassword
-'''
+
+```
